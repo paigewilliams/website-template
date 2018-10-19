@@ -2,7 +2,7 @@
 
 #### _Create Website with buttons that talks to user using Jquery, 16 October 2018_
 
-#### By _**Robert Bruce & Robert Lee**_
+#### By _**Robert Bruce_
 
 ## Description
 
